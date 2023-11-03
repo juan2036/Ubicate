@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "833785531966",
+    "project_id": "ubicate-b3e52",
+    "storage_bucket": "ubicate-b3e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833785531966:android:94891c12ee31f57ef3cb6f",
+        "android_client_info": {
+          "package_name": "com.mycompany.ubicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833785531966-cm72gesi9iv09jp2r89giv6r62a44rbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ubicate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "833785531966-daicoqnll4k727880av1vhpium28r128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWFZwg5Njvc-S0xGhjABMptIR5Af1j64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833785531966-daicoqnll4k727880av1vhpium28r128.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833785531966-8l85amflrh3ir86aisiuf38re75no8au.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ubicate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
